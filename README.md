@@ -7,7 +7,6 @@ A fun and engaging online quiz designed using HTML, CSS, and JavaScript. This we
 - Real-time scoring and feedback
 - Interactive elements for an immersive experience.
 ♣Built with:
-
 - HTML for structure and content
 - CSS for styling and layout
 - JavaScript for interactivity and functionality
